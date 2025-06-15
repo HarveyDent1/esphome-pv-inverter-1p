@@ -24,6 +24,7 @@ jobs:
       matrix:
         file:
           - deye_hybrid_3p_lv
+          - deye_hybrid_1p_lv
           - deye_hybrid_3p_hv
 
         esphome-version:
